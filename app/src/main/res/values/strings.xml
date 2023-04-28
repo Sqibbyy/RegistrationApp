@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="register">Registration Form</string>
+    <string name="name">Full Name</string>
+    <string name="address">Residential Address</string>
+    <string name="sex">Gender</string>
+    <string name="button1">Male</string>
+    <string name="button2">Female</string>
+    <string name="button3">Others</string>
+    <string name="date">Date of Birth</string>
+    <string name="mail">Email</string>
+    <string name="submit">Register</string>
+</resources>
